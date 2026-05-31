@@ -65,7 +65,7 @@ building and deploying end-to-end ML/DL pipelines using Python, TensorFlow, and 
 | [Handwritten Digit Recognition](https://github.com/MostafaELsayed-217/handwritten-digit-recognition) | LeNet-5 from scratch | 97.7% | LeNet-5, Keras |
 | [CIFAR-10 Classification](https://github.com/MostafaELsayed-217/cifar10-image-classification) | 10-class image classifier | 71.9% | CNN, TensorFlow |
 | [Dangerous Activity Classification](https://github.com/MostafaELsayed-217/Dangerous-Activity-Classification-using-Neural-Networks-) | Safety-critical behavioral classifier | 99.3% | MLP, Scikit-learn |
-| [Car vs Bike Classification](#) | Binary image classifier | 92.7% | CNN, TensorFlow |
+| [Car vs Bike Classification](https://github.com/MostafaELsayed-217/car-vs-bike-classification) | Binary image classifier | 92.7% | CNN, TensorFlow |
 
 ---
 
