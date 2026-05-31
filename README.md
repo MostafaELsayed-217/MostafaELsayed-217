@@ -71,17 +71,22 @@ building and deploying end-to-end ML/DL pipelines using Python, TensorFlow, and 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaELsayed-217&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaELsayed-217&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MostafaELsayed-217&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MostafaELsayed-217&theme=tokyonight)
 
-<p align="center">
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MostafaELsayed-217&theme=tokyonight&utcOffset=2)
+
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=MostafaELsayed-217&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
