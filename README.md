@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=185FA5¢er=true&vCenter=true&width=500&lines=Data+Scientist;Computer+Vision+Engineer;ML%2FDL+Pipeline+Builder;Python+%7C+TensorFlow+%7C+OpenCV" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2000&color=185FA5¢er=true&vCenter=true&width=500&lines=Data+Scientist;Computer+Vision+Engineer;ML%2FDL+Pipeline+Builder;Python+%7C+TensorFlow+%7C+OpenCV" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -73,11 +73,14 @@ building and deploying end-to-end ML/DL pipelines using Python, TensorFlow, and 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MostafaELsayed-217&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaELsayed-217&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaELsayed-217&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=MostafaELsayed-217&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
