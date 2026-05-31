@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:5DCAA5&height=200§ion=header&text=Mostafa%20El-Sayed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Computer%20Vision%20Engineer&descAlignY=58&descSize=18"/>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=185FA5¢er=true&vCenter=true&width=500&lines=Data+Scientist;Computer+Vision+Engineer;ML%2FDL+Pipeline+Builder;Python+%7C+TensorFlow+%7C+OpenCV" alt="Typing animation"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2000&color=185FA5¢er=true&vCenter=true&width=500&lines=Data+Scientist;Computer+Vision+Engineer;ML%2FDL+Pipeline+Builder;Python+%7C+TensorFlow+%7C+OpenCV" alt="Typing animation"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mostafa-nfc">
