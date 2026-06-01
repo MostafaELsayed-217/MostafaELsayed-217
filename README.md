@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-Data Scientist with 1+ year of experience specializing in **computer vision** and **NLP**,
+Data Scientist with 2+ year of experience specializing in **computer vision** and **NLP**,
 building and deploying end-to-end ML/DL pipelines using Python, TensorFlow, and Scikit-learn.
 
 - 🎯 Achieved **76.9% accuracy** on 7-class emotion classification (↑4.9% over baseline)
