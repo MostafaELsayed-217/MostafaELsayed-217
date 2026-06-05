@@ -60,12 +60,12 @@ building and deploying end-to-end ML/DL pipelines using Python, TensorFlow, and 
 
 | Project | Description | Result | Tech |
 |---|---|---|---|
-| [Micro-Expression Classification](#) | 7-class emotion recognition | 76.9% ↑4.9% | CNN, ResNet, VGG16 |
 | [Real-Time Object Detection](https://github.com/MostafaELsayed-217/yolov8-object-detection) | Multi-object detection with bounding boxes | Production-ready | YOLOv8, OpenCV |
 | [Handwritten Digit Recognition](https://github.com/MostafaELsayed-217/handwritten-digit-recognition) | LeNet-5 from scratch | 97.7% | LeNet-5, Keras |
 | [CIFAR-10 Classification](https://github.com/MostafaELsayed-217/cifar10-image-classification) | 10-class image classifier | 71.9% | CNN, TensorFlow |
 | [Dangerous Activity Classification](https://github.com/MostafaELsayed-217/Dangerous-Activity-Classification-using-Neural-Networks-) | Safety-critical behavioral classifier | 99.3% | MLP, Scikit-learn |
 | [Car vs Bike Classification](https://github.com/MostafaELsayed-217/car-vs-bike-classification) | Binary image classifier | 92.7% | CNN, TensorFlow |
+| [Micro-Expression Classification](#) | 7-class emotion recognition | 76.9% ↑4.9% | CNN, ResNet, VGG16 |
 
 ---
 
